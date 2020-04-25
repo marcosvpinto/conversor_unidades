@@ -1,16 +1,21 @@
-# conversor_unidades
+# Conversor de unidades
 
-A new Flutter project.
+Um projeto de estudos sobre Flutter, mas que funciona! 
 
-## Getting Started
+Converta unidades de vários tipos: 
 
-This project is a starting point for a Flutter application.
+- Conversor de unidades de comprimento;
+- Conversor de unidades de área;
+- Conversor de unidades de volume;
+- Conversor de unidades de massa;
+- Conversor de unidades de tempo;
+- Conversor de unidades de armazenamento digital;
+- Conversor de unidades de energia;
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](./screenshots/1.png)
+![](./screenshots/2.png)
+![](./screenshots/3.png)
+![](./screenshots/4.png)
+![](./screenshots/5.png)
