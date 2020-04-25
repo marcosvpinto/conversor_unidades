@@ -1,0 +1,235 @@
+{
+    "Comprimento": [
+      {
+        "name": "Metro",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Milimetro",
+        "conversion": 1000.0
+      },
+      {
+        "name": "Centimetro",
+        "conversion": 100.0
+      },
+      {
+        "name": "Quilômetro",
+        "conversion": 0.001
+      },
+      {
+        "name": "Polegada",
+        "conversion": 39.3701
+      },
+      {
+        "name": "Pés",
+        "conversion": 3.28084
+      },
+      {
+        "name": "Jarda",
+        "conversion": 1.09361
+      },
+      {
+        "name": "Milha",
+        "conversion": 0.000621371
+      }
+    ],
+    "Área": [
+      {
+        "name": "Metro quadrado",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Quilômetro quadrado",
+        "conversion": 0.000001
+      },
+      {
+        "name": "Polegada quadrada",
+        "conversion": 1550.0
+      },
+      {
+        "name": "Pés ao quadrado",
+        "conversion": 10.7639
+      },
+      {
+        "name": "Jardas ao quadrado",
+        "conversion": 1.19599
+      },
+      {
+        "name": "Acre",
+        "conversion": 0.000247105
+      },
+      {
+        "name": "Hectare",
+        "conversion": 0.0001
+      }
+    ],
+    "Volume": [
+      {
+        "name": "Metro cúbico",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Xícara americana",
+        "conversion": 4166.67
+      },
+      {
+        "name": "Onça fluída US",
+        "conversion": 33814.0
+      },
+      {
+        "name": "Colher de sopa US",
+        "conversion": 67628.0
+      },
+      {
+        "name": "Colher de chá",
+        "conversion": 202884.0
+      },
+      {
+        "name": "Xícara imperial",
+        "conversion": 3519.51
+      },
+      {
+        "name": "Onça fluída Imperial",
+        "conversion": 35195.1
+      },
+      {
+        "name": "Colher de sopa Imperial",
+        "conversion": 56312.13673
+      },
+      {
+        "name": "Colher de chá Imperial",
+        "conversion": 168936.41019
+      }
+    ],
+    "Massa": [
+      {
+        "name": "Quilograma",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Grama",
+        "conversion": 1000.0
+      },
+      {
+        "name": "Onça",
+        "conversion": 35.274
+      },
+      {
+        "name": "Libra",
+        "conversion": 2.20462
+      },
+      {
+        "name": "Stone",
+        "conversion": 0.157473
+      },
+      {
+        "name": "Tonelada US",
+        "conversion": 0.00110231
+      },
+      {
+        "name": "Tonelada Métrica",
+        "conversion": 0.001
+      }
+    ],
+    "Tempo": [
+      {
+        "name": "Segundos",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Milisegundos",
+        "conversion": 1000.0
+      },
+      {
+        "name": "Minuto",
+        "conversion": 0.0166666666666667
+      },
+      {
+        "name": "Hora",
+        "conversion": 0.0002777777777778
+      },
+      {
+        "name": "Dia",
+        "conversion": 0.00001157407407
+      },
+      {
+        "name": "Semana",
+        "conversion": 0.000001653439153
+      },
+      {
+        "name": "Quinzena",
+        "conversion": 0.000000826719576
+      }
+    ],
+    "Armaz. Digital": [
+      {
+        "name": "Megabyte",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Megabit",
+        "conversion": 8.0
+      },
+      {
+        "name": "Mebibyte",
+        "conversion": 0.953674
+      },
+      {
+        "name": "Byte",
+        "conversion": 1000000.0
+      },
+      {
+        "name": "Kilobyte",
+        "conversion": 1000.0
+      },
+      {
+        "name": "Gigabyte",
+        "conversion": 0.001
+      },
+      {
+        "name": "Terabyte",
+        "conversion": 0.000001
+      },
+      {
+        "name": "Petabyte",
+        "conversion": 0.000000001
+      }
+    ],
+    "Energia": [
+      {
+        "name": "Joule",
+        "conversion": 1.0,
+        "base_unit": true
+      },
+      {
+        "name": "Kilojoule",
+        "conversion": 0.001
+      },
+      {
+        "name": "Caloria por grama",
+        "conversion": 0.239006
+      },
+      {
+        "name": "Kilocaloria (Caloria)",
+        "conversion": 0.000239006
+      },
+      {
+        "name": "Watt hora",
+        "conversion": 0.000277778
+      },
+      {
+        "name": "Unidade térmica britânica",
+        "conversion": 0.000947817
+      },
+      {
+        "name": "US therm",
+        "conversion": 0.0000000094804
+      }
+    ]
+  }
